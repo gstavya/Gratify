@@ -1,0 +1,118 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Paper Container */
+.messages-container {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+/* Title */
+.messages-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+/* Search Bar */
+.search-bar {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+/* Connection List */
+.connections-list {
+    list-style: none;
+    padding: 0;
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.connection-item {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.connection-item:hover {
+    background: #f1f1f1;
+}
+
+/* Chat Window */
+.chat-header {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.chat-box {
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    background: #fafafa;
+    border-radius: 5px;
+}
+
+.message {
+    max-width: 70%;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+}
+
+.message.sent {
+    background: #DCF8C6;
+    align-self: flex-end;
+}
+
+.message.received {
+    background: #F1F1F1;
+    align-self: flex-start;
+}
+
+/* Message Input */
+.message-input-container {
+    display: flex;
+    margin-top: 10px;
+}
+
+.message-input {
+    flex: 1;
+}
+
+.send-button {
+    margin-left: 10px;
+    background: #3dcada;
+    color: white;
+}
+
+.send-button:hover {
+    background: #2fa5a7;
+}
+
+/* View Profile Button */
+.view-profile {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #007d83;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.view-profile:hover {
+    color: #00585c;
+}
