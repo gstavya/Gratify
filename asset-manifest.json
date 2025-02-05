@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gstavya/Gratify.git/static/css/main.e4623b05.css",
-    "main.js": "/gstavya/Gratify.git/static/js/main.32ae01ea.js",
-    "static/js/453.eb1b17e0.chunk.js": "/gstavya/Gratify.git/static/js/453.eb1b17e0.chunk.js",
-    "index.html": "/gstavya/Gratify.git/index.html",
-    "main.e4623b05.css.map": "/gstavya/Gratify.git/static/css/main.e4623b05.css.map",
-    "main.32ae01ea.js.map": "/gstavya/Gratify.git/static/js/main.32ae01ea.js.map",
-    "453.eb1b17e0.chunk.js.map": "/gstavya/Gratify.git/static/js/453.eb1b17e0.chunk.js.map"
+    "main.css": "/gstavya/Gratify/static/css/main.e4623b05.css",
+    "main.js": "/gstavya/Gratify/static/js/main.8dfea98b.js",
+    "static/js/453.eb1b17e0.chunk.js": "/gstavya/Gratify/static/js/453.eb1b17e0.chunk.js",
+    "index.html": "/gstavya/Gratify/index.html",
+    "main.e4623b05.css.map": "/gstavya/Gratify/static/css/main.e4623b05.css.map",
+    "main.8dfea98b.js.map": "/gstavya/Gratify/static/js/main.8dfea98b.js.map",
+    "453.eb1b17e0.chunk.js.map": "/gstavya/Gratify/static/js/453.eb1b17e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4623b05.css",
-    "static/js/main.32ae01ea.js"
+    "static/js/main.8dfea98b.js"
   ]
 }
